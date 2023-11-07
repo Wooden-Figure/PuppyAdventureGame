@@ -17,14 +17,11 @@ Method name: PuppyAdventureGame.py
     Revisions: Robert Soto (10/5/2023) - Finished the first if loop
     Revisions: Robert Soto (10/6/2023) - Defined instructions/ user status and
     included dictionary from prompt
-    Revisions: Robert Soto (10/6/2023) - Met with tutors and added additional 'while' statement
+    Revisions: Robert Soto (10/6/2023) - Added additional 'while' statement
     ensuring that the user is unable to leave the exit room without providing the correct
     command.
     Revisions: Robert Soto (10/6/2023) - Added previous room to fix exit room.
-    Revisions: Robert Soto (10/8/2023) - Worked with tutor and was told not to include "endif" and similar
-    statements.
-    Revisions: Robert Soto (10/9/2023) - Removed the exit criteria and began working on grabbing items.
-    Revisions: Robert Soto (10/9/2023) - Met with tutor to fix the grab items function.
+    Revisions: Robert Soto (10/9/2023) - Fixed the grab items function.
     Revisions: Robert Soto (10/9/2023) - Fixed program to stop producing two outputs of the user_status.
     Revisions: Robert Soto (10/9/2023) - Debugged the end/ winning criteria of the game.
     Revisions: Robert Soto (10/9/2023) - Fixed conditional statement that would not allow the game to end,
