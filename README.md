@@ -2,7 +2,7 @@
 
 Method name: PuppyAdventureGame.py
 
-    The TextBasedGame.py utilizes defining functions, calling statements,
+    The PuppyAdventureGame.py utilizes defining functions, calling statements,
     dictionaries, while statements, nested if statements, starts with,
     changing of variables, breaking, and quitting. This program creates a game for the user
     that prompts instructions on how to beat or lose the game. It is a text based game that requires the
