@@ -1,4 +1,4 @@
-print("Welcome to the Dalmatian Text Adventure Game!\n")
+print("Welcome to the Puppy Text Adventure Game!\n")
 
 
 def show_instructions():  # providing the instructions to the user on how to play the game
@@ -86,11 +86,11 @@ while True:
                 print('\nYou collected all the items!')
                 break
 
-        if items_collected == 6:  # completes the game
-            print('\nYou won the game and get to go play outside!')
+        if items_collected == 6:  # completes the 
+            print('\nYou won the  and get to go play outside!')
             break
 
-        if current_room == 'Computer Room' and items_collected != 6:  # ends the game if the players does not follow the
+        if current_room == 'Computer Room' and items_collected != 6:  # ends the  if the players does not follow the
             #  instructions
             print("You went into the Computer Room w/out all the items and did not distract your owner! "
                   "You are stuck inside, sad face.")
